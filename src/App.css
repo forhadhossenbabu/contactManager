@@ -1,0 +1,8 @@
+i {
+        pointer-events: stroke;
+        margin-left: 2%;
+}
+i:hover {
+    color: green;
+    cursor: pointer
+}
